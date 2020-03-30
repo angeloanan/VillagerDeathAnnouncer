@@ -1,0 +1,7 @@
+name: VillagerDeathsAnnouncer
+version: ${project.version}
+main: xyz.angeloanan.villagerdeathsannouncer.VillagerDeathsAnnouncer
+api-version: 1.13
+authors: [angeloanan]
+description: A lightweight villager death announcer
+website: https://angeloanan.xyz
